@@ -1,0 +1,127 @@
+Game 1 failed
+	( 14 green, 15 blue)
+Game 4 failed
+	( 12 blue, 12 green, 3 red)
+Game 5 failed
+	( 15 blue, 16 red, 14 green)
+Game 6 failed
+	( 4 blue, 13 red)
+Game 8 failed
+	( 15 green, 10 red, 3 blue)
+Game 11 failed
+	( 1 red, 12 green)
+Game 12 failed
+	( 3 red, 2 green, 15 blue)
+Game 17 failed
+	( 1 blue, 4 red, 14 green)
+Game 19 failed
+	( 3 blue, 4 red, 17 green)
+Game 20 failed
+	( 6 green, 7 red, 18 blue)
+Game 21 failed
+	( 16 blue, 7 green, 13 red)
+Game 22 failed
+	( 14 blue, 6 red, 1 green)
+Game 23 failed
+	( 17 red, 1 blue, 13 green)
+Game 24 failed
+	( 8 blue, 11 green, 14 red)
+Game 26 failed
+	( 5 red, 2 blue, 13 green)
+Game 27 failed
+	( 1 green, 14 blue, 2 red)
+Game 28 failed
+	( 11 red, 13 blue, 12 green)
+Game 29 failed
+	( 5 green, 16 red, 1 blue)
+Game 31 failed
+	( 5 green, 7 blue, 14 red)
+Game 33 failed
+	( 5 red, 15 green, 3 blue)
+Game 34 failed
+	( 3 red, 14 blue, 1 green)
+Game 35 failed
+	( 2 red, 16 blue)
+Game 36 failed
+	( 3 red, 13 green, 14 blue)
+Game 37 failed
+	( 3 green, 14 red)
+Game 39 failed
+	( 18 green, 2 red)
+Game 40 failed
+	( 14 red, 2 green, 2 blue)
+Game 41 failed
+	( 2 blue, 18 green, 3 red)
+Game 42 failed
+	( 2 red, 3 green, 15 blue)
+Game 43 failed
+	( 10 blue, 2 red, 14 green)
+Game 44 failed
+	( 5 green, 7 blue, 17 red)
+Game 45 failed
+	( 14 blue, 5 green)
+Game 47 failed
+	( 6 blue, 1 red, 12 green)
+Game 48 failed
+	( 19 green, 1 blue, 11 red)
+Game 50 failed
+	( 1 green, 1 blue, 17 red)
+Game 51 failed
+	( 12 green, 9 blue, 1 red)
+Game 54 failed
+	( 17 blue, 1 green, 8 red)
+Game 55 failed
+	( 4 red, 17 blue)
+Game 56 failed
+	( 4 blue, 12 green, 12 red)
+Game 57 failed
+	( 17 blue, 1 green, 9 red)
+Game 59 failed
+	( 15 red, 8 green)
+Game 61 failed
+	( 3 green, 13 red, 2 blue)
+Game 65 failed
+	( 2 red, 16 blue)
+Game 67 failed
+	( 13 blue, 19 red, 13 green)
+Game 70 failed
+	( 8 red, 15 blue, 18 green)
+Game 71 failed
+	( 3 green, 6 blue, 13 red)
+Game 72 failed
+	( 13 red, 6 green, 11 blue)
+Game 74 failed
+	( 18 green, 1 red)
+Game 76 failed
+	( 15 blue, 2 red, 1 green)
+Game 77 failed
+	( 12 blue, 8 green, 15 red)
+Game 78 failed
+	( 2 red, 7 blue, 14 green)
+Game 79 failed
+	( 2 blue, 1 red, 18 green)
+Game 80 failed
+	( 14 blue, 13 red, 6 green)
+Game 81 failed
+	( 13 red, 2 blue)
+Game 84 failed
+	( 9 red, 12 green, 1 blue)
+Game 87 failed
+	( 17 red, 3 blue, 2 green)
+Game 89 failed
+	( 4 blue, 17 red, 4 green)
+Game 93 failed
+	( 13 red, 11 green, 10 blue)
+Game 94 failed
+	( 16 green, 5 red)
+Game 95 failed
+	( 1 blue, 16 green)
+Game 96 failed
+	( 2 blue, 14 green, 17 red)
+Game 97 failed
+	( 11 green, 13 red, 4 blue)
+Game 99 failed
+	( 14 green, 1 blue)
+Game 100 failed
+	( 6 green, 15 red, 12 blue)
+Solution: 1885
